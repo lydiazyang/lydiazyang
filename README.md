@@ -8,7 +8,7 @@
 
 **Fun Facts:**
 - 🏺 I studied art conservation in the Netherlands in 2022, where I got to combine my love for art history with the fascinating chemistry of preserving history
-- 🐢 My family and I care for a pet red slider turtle named Twinkle
+- 🐢 My family and I care for a red-eared slider turtle named Twinkle
 - 🏃🏻‍♀️ I ran a half-marathon this past November!
 
 **Let's Connect:**
