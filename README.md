@@ -3,8 +3,8 @@
 **About Me:**
 - 🎓 I'm currently studying at **Washington and Lee University** as a double-major in **Sociology + Computer Science** with a minor in **Studio Art**
 - 🖥️ I'm a **Full-Stack App Developer**, skilled in **Java, Python, JavaScript, React, and Angular**
-- 🌉 I'm a proud **Chinese-American** who grew up in New Jersey
-- 🎨 My passions extend to **tennis 🎾, painting 🖼️, creative writing ✍️, piano 🎹, cooking & baking 🍳, and traveling 🌍**
+- 🌉 I'm a proud **Chinese-American** who grew up in New Jersey, fluent in **Mandarin** and conversational in **French**
+- 🎨 My passions extend to **tennis 🎾, painting 🖼️, creative writing ✍️, piano 🎹, cooking & baking 🍳, skiing ⛷, and traveling 🌍**
 
 **Fun Facts:**
 - 🏺 I studied art conservation in the Netherlands in 2022, where I got to combine my love for art history with the fascinating chemistry of preserving history
