@@ -7,7 +7,7 @@
 - 🎨 My passions extend to **tennis 🎾, painting 🖼️, creative writing ✍️, piano 🎹, baking 👩🏻‍🍳, figure skating ⛸️, and traveling 🌍**
 
 **Fun Facts:**
-- 🏺 I studied art conservation in the Netherlands in the spring of 2022, where I got to combine my love for art history with the fascinating chemistry of preserving history. It was there after meeting and seeing the projects of a senior scientist of the Rijksmuseum, Rob Erdmann, that I decided to pursue a degree in Computer Science!
+- 🏺 I studied art conservation in the Netherlands in the spring of 2022, where I got to combine my love for art history with the fascinating chemistry of preserving history. My class and I met the senior scientist of the Rijksmuseum, Rob Erdmann, and learned about the projects he developed including the [Bosch Project Curtain Viewer](http://boschproject.org/view.html?layout=four-pane&mode=curtain&pointer=0.628,0.711&r=0.0000,0.0604,1.0000,0.8879&i=47MCPVIS,47IRREFL,47XRADGR,47MCPIRP), [a hyper-resolution image (5 µm) of Rembrandt's _NightWatch_](hyper-resolution.org/Nightwatch5), and an [AI visualization of the Vianen ewer](https://youtu.be/d7U-aHEcgp8?si=qHrv3_D6h6meioXG&t=126). It was then, right after that presentation, that I decided to pursue a degree in Computer Science!
 - 🐢 My family and I care for a red-eared slider turtle named Twinkle
 - 🏃🏻‍♀️ I ran a half-marathon this past November! With minimal training, and lots of adrenaline 😅
 
