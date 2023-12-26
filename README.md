@@ -14,4 +14,4 @@
 **Let's Connect:**
 - Feel free to reach out or follow my journey as I explore the intersection of technology, art, and society. Let's make something beautiful together!
 
-🌟 https://www.linkedin.com/in/lydiazyang/
+🔗 https://www.linkedin.com/in/lydiazyang/
