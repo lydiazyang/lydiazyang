@@ -1,8 +1,8 @@
 ### 🏡🌿 Hi, I'm Lydia! 🌷📚
 
 **About Me:**
+- 📜 Currently, I am studying **Artificial Intelligence** and **Discrete Mathmatics** abroad at **Oxford University!**
 - 🎓 I'm a Johnson Scholar at **W&L** pursuing a double-major in **Sociology + Computer Science** with a minor in **Studio Art**
-- 📜 Currently, I am studying **Artificial Intelligence** and **Discrete Mathmatics** abroad at Oxford University!
 - 🖥️ I'm a **Full-Stack Developer**, skilled in **Java, Python, JavaScript, React, and Angular**
 - 🌉 I'm a proud **Chinese-American** who grew up in New Jersey, fluent in **Mandarin** and conversational in **French**
 - 🎨 My passions extend to **tennis 🎾, painting 🖼️, creative writing ✍️, piano 🎹, baking 👩🏻‍🍳, figure skating ⛸️, and traveling 🌍**
